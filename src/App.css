@@ -1,38 +1,27 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+input#exampleInputEmail1 {
+  width: 210px;
+  margin-left: 542px;
+  height: 34px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+label.form-label {
+  margin-top: 73px;
+  margin-right: 92px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+input#exampleInputEmail2 {
+  width: 221px;
+  margin-left: 540px;
+  height: 47px;
 }
-
-.App-link {
-  color: #61dafb;
+button.btn.btn-outline-danger {
+  margin-left: 934px;
+  font-size: 14px;
+  border-radius: 27px;
+  margin-top: 10px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button.btn.btn-outline-secondary {
+  margin-top: 14px;
+  margin-left: -78px;
 }
