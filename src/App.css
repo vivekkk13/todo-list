@@ -1,27 +1,64 @@
-.App {
-  text-align: center;
+body {
+  background-color: #90d3beb8;
 }
 input#exampleInputEmail1 {
-  width: 210px;
-  margin-left: 542px;
+  width: 283px;
+  margin-left: 13px;
   height: 34px;
 }
 label.form-label {
-  margin-top: 73px;
-  margin-right: 92px;
+  margin-top: 12px;
+  margin-left: 18px;
 }
 input#exampleInputEmail2 {
-  width: 221px;
-  margin-left: 540px;
-  height: 47px;
+  width: 278px;
+  margin-left: 14px;
+  height: 185px;
+  padding: 14px 0 168px 0;
+  
 }
 button.btn.btn-outline-danger {
-  margin-left: 934px;
+  margin-left: 647px;
   font-size: 14px;
   border-radius: 27px;
   margin-top: 10px;
 }
 button.btn.btn-outline-secondary {
-  margin-top: 14px;
-  margin-left: -78px;
+  margin-top: 29px;
+  margin-left: 15px;
+  width: 276px;
+  margin-bottom: 17px;
+}
+.card-body {
+  background-color: white;
+  border-radius: 19px;
+}
+a.navbar-brand {
+  margin-left: 575px;
+}
+.task {
+  margin-left: 299px;
+  font-size: 35px;
+}
+button.btn.btn-outline-dark {
+  margin-left: 586px;
+  margin-top: -61px;
+  border-radius: 25px;
+}
+.shadow.p-3.mb-5.bg-white.rounded {
+  width: 1354px;
+  height: 73px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+  background-color: aliceblue;
+}
+.spann {
+  margin-left: 607px;
+  margin-top: -2px;
+  position: fixed;
+}
+.edit {
+  margin-left: 558px;
+  margin-bottom: 2px;
+  position: fixed;
 }
